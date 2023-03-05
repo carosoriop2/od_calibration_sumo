@@ -1,0 +1,14 @@
+{
+    "objective": "counts",
+    "net": "quickstart.net.xml",
+    "route2od": "quickstart.rou_for_od.xml",
+    "taz": "quickstart.taz.xml",
+    "add": "quickstart.additional.xml",
+    "start_sim_sec": 54000,
+    "end_sim_sec": 57600,
+    "gt_od": "quickstart.gt_od.xml",
+    "current_od": "quickstart.current_od.xml",
+    "init_od": "quickstart.init_od.xml",
+    "prior_od": "quickstart.prior_od.xml",
+    "n_sumo_replicate": 1
+}

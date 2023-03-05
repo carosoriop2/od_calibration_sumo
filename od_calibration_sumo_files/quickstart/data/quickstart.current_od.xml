@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<data xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/datamode_file.xsd">
+<interval id="CarA" begin="54000" end="57600.0">
+<tazRelation from="taz91" to="taz93" count="1204.0"/>
+<tazRelation from="taz91" to="taz94" count="20.0"/>
+<tazRelation from="taz92" to="taz93" count="1503.0"/>
+<tazRelation from="taz92" to="taz94" count="998.0"/>
+</interval>
+</data>

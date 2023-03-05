@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2023-02-18 22:07:48 by Eclipse SUMO sumo Version 1.16.0
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/sumoConfiguration.xsd">
+
+    <input>
+        <net-file value="/Users/osorio/notebooks/od_calibration_sumo_files/quickstart/data/quickstart.net.xml"/>
+        <route-files value="/Users/osorio/notebooks/od_calibration_sumo_files/quickstart/data/gt_od_trips.trips.xml"/>
+        <additional-files value="/Users/osorio/notebooks/od_calibration_sumo_files/quickstart/data/quickstart.additional.xml"/>
+    </input>
+
+    <output>
+        <output-prefix value="GT"/>
+        <vehroute-output value="/Users/osorio/notebooks/od_calibration_sumo_files/quickstart/data/gt_routes.vehroutes.xml"/>
+    </output>
+
+    <time>
+        <begin value="54000"/>
+        <end value="57600"/>
+    </time>
+
+    <processing>
+        <ignore-route-errors value="true"/>
+    </processing>
+
+    <report>
+        <xml-validation value="never"/>
+        <duration-log.statistics value="true"/>
+    </report>
+
+</configuration>
+-->
+
+<detector xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/det_e1_file.xsd">
+    <interval begin="54000.00" end="57600.00" id="e1Detector_#EdgeL5_0" nVehContrib="610" flow="610.00" occupancy="6.50" speed="13.17" harmonicMeanSpeed="13.05" length="5.00" nVehEntered="612"/>
+    <interval begin="54000.00" end="57600.00" id="e1Detector_#EdgeL5_1" nVehContrib="303" flow="303.00" occupancy="3.06" speed="14.20" harmonicMeanSpeed="13.81" length="5.00" nVehEntered="305"/>
+    <interval begin="54000.00" end="57600.00" id="e1Detector_#EdgeL5_2" nVehContrib="46" flow="46.00" occupancy="0.48" speed="14.73" harmonicMeanSpeed="13.64" length="5.00" nVehEntered="49"/>
+    <interval begin="54000.00" end="57600.00" id="e1Detector_#EdgeL7_0" nVehContrib="707" flow="707.00" occupancy="7.72" speed="12.95" harmonicMeanSpeed="12.75" length="5.00" nVehEntered="710"/>
+    <interval begin="54000.00" end="57600.00" id="e1Detector_#EdgeL7_1" nVehContrib="415" flow="415.00" occupancy="4.24" speed="13.96" harmonicMeanSpeed="13.66" length="5.00" nVehEntered="419"/>
+    <interval begin="54000.00" end="57600.00" id="e1Detector_#EdgeL7_2" nVehContrib="121" flow="121.00" occupancy="1.18" speed="14.70" harmonicMeanSpeed="14.40" length="5.00" nVehEntered="123"/>
+</detector>

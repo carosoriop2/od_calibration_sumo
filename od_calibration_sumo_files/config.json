@@ -1,0 +1,4 @@
+{
+    "NETWORK": "/Users/osorio/notebooks/od_calibration_sumo_files/quickstart/data",
+    "SUMO": "/usr/local/Cellar/sumo/1.16.0/share/sumo"
+}

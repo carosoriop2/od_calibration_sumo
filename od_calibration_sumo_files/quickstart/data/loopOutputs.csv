@@ -1,0 +1,7 @@
+interval_begin;interval_end;interval_id;interval_nVehContrib;interval_flow;interval_occupancy;interval_speed;interval_harmonicMeanSpeed;interval_length;interval_nVehEntered;typedInterval_type;typedInterval_begin;typedInterval_end;typedInterval_id;typedInterval_nVehContrib;typedInterval_flow;typedInterval_occupancy;typedInterval_speed;typedInterval_harmonicMeanSpeed;typedInterval_length;typedInterval_nVehEntered
+54000.00;57600.00;e1Detector_#EdgeL5_0;119;119.00;1.22;13.67;13.52;5.00;119;;;;;;;;;;;
+54000.00;57600.00;e1Detector_#EdgeL5_1;3;3.00;0.03;14.08;13.92;5.00;3;;;;;;;;;;;
+54000.00;57600.00;e1Detector_#EdgeL5_2;1;1.00;0.01;15.41;15.41;5.00;1;;;;;;;;;;;
+54000.00;57600.00;e1Detector_#EdgeL7_0;211;211.00;2.19;13.60;13.37;5.00;211;;;;;;;;;;;
+54000.00;57600.00;e1Detector_#EdgeL7_1;24;24.00;0.22;14.95;14.89;5.00;25;;;;;;;;;;;
+54000.00;57600.00;e1Detector_#EdgeL7_2;0;0.00;0.00;-1.00;-1.00;-1.00;0;;;;;;;;;;;

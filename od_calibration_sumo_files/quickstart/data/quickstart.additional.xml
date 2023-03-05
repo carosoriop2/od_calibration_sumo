@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<additional>
+
+  <vType accel="1.0" decel="6.0" id="CarA" length="5.0" minGap="2.5" maxSpeed="50.0" sigma="0.5" />
+
+  <route id="route01" edges="D2 L2 L12 L10 L7 D7"/>
+  <route id="route02" edges="D2 L2 L12 L15 L18 L5 D5"/>
+  <route id="route04" edges="D4 L4 L14 L18 L5 D5"/>
+  <route id="route05" edges="D4 L4 L14 L16 L10 L7 D7"/>
+  
+    <processing>
+        <time-to-teleport value="-1"/>
+    </processing>
+
+
+	<e1Detector id="e1Detector_#EdgeL5_0" lane="L5_0" pos="0" freq="3600" file="out.xml"/>
+	<e1Detector id="e1Detector_#EdgeL5_1" lane="L5_1" pos="0" freq="3600" file="out.xml"/>
+	<e1Detector id="e1Detector_#EdgeL5_2" lane="L5_2" pos="0" freq="3600" file="out.xml"/>
+	<e1Detector id="e1Detector_#EdgeL7_0" lane="L7_0" pos="0" freq="3600" file="out.xml"/>
+	<e1Detector id="e1Detector_#EdgeL7_1" lane="L7_1" pos="0" freq="3600" file="out.xml"/>
+	<e1Detector id="e1Detector_#EdgeL7_2" lane="L7_2" pos="0" freq="3600" file="out.xml"/>
+
+
+</additional>

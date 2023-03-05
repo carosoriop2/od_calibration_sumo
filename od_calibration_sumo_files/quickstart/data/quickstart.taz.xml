@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2022-06-06 11:10:53 by Eclipse SUMO netedit Version 1.13.0
+-->
+
+<additional xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/additional_file.xsd">
+    <!-- TAZs -->
+    <taz id="taz91">
+        <tazSource id="D2" weight="1.00"/>
+    </taz>
+    <taz id="taz92">
+        <tazSource id="D4" weight="1.00"/>
+    </taz>
+    <taz id="taz93">
+        <tazSink id="D5" weight="1.00"/>
+    </taz>
+    <taz id="taz94">
+        <tazSink id="D7" weight="1.00"/>
+    </taz>
+</additional>
